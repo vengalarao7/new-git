@@ -1,16 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
+def devsion(a,b):
+	print(a/b)
+devision(10,5)
 
 def sub(a,b):
 	print(a-b)
