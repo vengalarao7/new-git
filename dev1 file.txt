@@ -1,3 +1,4 @@
 def devsion(a,b):
 	print(a/b)
 devision(10,5)
+
