@@ -1,1 +1,3 @@
-This file is created by dev1.
+def devsion(a,b):
+	print(a/b)
+devision(10,5)
