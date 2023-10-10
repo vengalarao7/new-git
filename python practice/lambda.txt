@@ -1,1 +1,1 @@
-It is a single line function in python. 
+lambda 
