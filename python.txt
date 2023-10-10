@@ -1,3 +1,0 @@
-tuple is one of the immutable data structure in python.
-
-
