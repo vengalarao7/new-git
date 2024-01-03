@@ -53,6 +53,8 @@ To get the information about specific commit in the format of (commit id, author
              git log -n 4 --format="%h %an %s" --skip=1
              git log -n 2 --format="%h %an %s"|tail -n 1
 
+jenkins
+
 
 To Get Previous Version of a file 
              git reset --hard 4365g57s(commit_id)
