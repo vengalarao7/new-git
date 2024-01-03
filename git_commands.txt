@@ -57,6 +57,4 @@ To get the information about specific commit in the format of (commit id, author
 To Get Previous Version of a file 
              git reset --hard 4365g57s(commit_id)
 
-Git commands end....
-
 
