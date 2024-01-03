@@ -37,7 +37,7 @@ To view the current working branch
 To view the all commit information  
             git log
 
-It is used to find the differences between two commits by using commit ID’s.
+It is used to find the differences between two commits by using commit IDâ€™s.
             git diff d3866335 cc59a4f2
             git diff d3866335 cc59a4f2 newfile
 
@@ -56,5 +56,7 @@ To get the information about specific commit in the format of (commit id, author
 
 To Get Previous Version of a file 
              git reset --hard 4365g57s(commit_id)
+
+Git commands end....
 
 
