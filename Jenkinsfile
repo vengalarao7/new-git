@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage {
+        stage ("image build"){
             sh "docker build -t flask-app ."
             sh "docker images |grep flask-app"
         }
